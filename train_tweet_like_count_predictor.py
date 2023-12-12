@@ -115,4 +115,4 @@ if __name__ == '__main__':
     trainer.save_model('./tweet-like-count-predictor-hf-model')
 
     # upload the model to Hugging Face
-    trainer.push_to_hub('gaborcselle/tweet_like_predictor')
+    #trainer.push_to_hub('gaborcselle/tweet_like_predictor')
